@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "542775995445",
+    "firebase_url": "https://lojaflutter-3ccaa.firebaseio.com",
+    "project_id": "lojaflutter-3ccaa",
+    "storage_bucket": "lojaflutter-3ccaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542775995445:android:71d64a305a5ae93ff9557c",
+        "android_client_info": {
+          "package_name": "br.com.rangel.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542775995445-p54d5a86qgjrggg64hud4q6d1tnoe80v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD77FgXYzLaRosCINkrJaHL-RlXgnwTPJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542775995445-p54d5a86qgjrggg64hud4q6d1tnoe80v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
